@@ -1,4 +1,12 @@
 
+/*
+// Gramado Library
+const GramadoLibrary = {
+  name: 'Gramado Library',
+  url: 'https://github.com/glitchandleak/gramado.js',
+};
+*/
+
 // ------------------------
 // The Gramado class.
 class GramadoClass {
